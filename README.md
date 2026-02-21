@@ -6,25 +6,22 @@ cd test-site
 https://nodejs.org/en/download
 
 Установить firebase
-npm install -g firebase-tools
+`npm install -g firebase-tools`
 
 Авторизация в Firebase
-firebase login
+`firebase login`
 
 Регистрация/логин/создания нового проекта
 https://console.firebase.google.com/
 
 Инициализация проекта в папке с сайтом
-firebase init
+`firebase init`
 
 Перекинуть содержымое в папку Public
 
 Развертывание сайта
-firebase deploy --only hosting
+`firebase deploy --only hosting`
 
 Далее для сброса кеша браузера(что бы увидеть изменения) нажмите на сочетание клавишь ctrl + f5
-
-
-
 
 

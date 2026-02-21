@@ -2,10 +2,10 @@
 md test-site
 cd test-site
 
-Скачать baash/n
+Скачать baash\n
 https://nodejs.org/en/download
 
-Установить firebase/n
+Установить firebase\n
 npm install -g firebase-tools
 
 Авторизация в Firebase
@@ -24,5 +24,6 @@ firebase init
 firebase deploy --only hosting
 
 Далее для сброса кеша браузера(что бы увидеть изменения) нажмите на сочетание клавишь ctrl + f5
+
 
 

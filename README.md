@@ -1,6 +1,6 @@
 Создание с помощью cmd
-md test-site
-cd test-site
+`md test-site`
+`cd test-site`
 
 Скачать baash
 https://nodejs.org/en/download
@@ -23,5 +23,6 @@ https://console.firebase.google.com/
 `firebase deploy --only hosting`
 
 Далее для сброса кеша браузера(что бы увидеть изменения) нажмите на сочетание клавишь ctrl + f5
+
 
 
